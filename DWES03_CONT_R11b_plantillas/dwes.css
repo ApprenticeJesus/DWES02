@@ -1,0 +1,33 @@
+h1 {
+    margin-bottom: 0;
+}
+
+#encabezado {
+    background-color: #ddf0a4;
+}
+
+#contenido {
+    background-color: #EEEEEE;
+    height: 600px;
+}
+
+#selectProd {
+    position:relative;
+    height: 400px;
+    width: 340px;
+    margin: 0 auto;
+    background-color: blue;
+}
+
+#producto {
+    position: absolute;
+    background-color: blue;
+    padding: 5px;
+}
+
+#pie {
+    background-color: #ddf0a4;
+    color: #ff0000;
+    height: 30px;
+}
+

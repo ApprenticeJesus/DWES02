@@ -1,0 +1,13 @@
+.error {
+    color: red;
+    visibility: visible;
+}
+
+p {
+    margin-left: 15px;
+    display: inline;
+}
+
+div {
+    display: block;
+}
